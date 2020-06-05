@@ -2,3 +2,8 @@
 	path = wecodebolivia/theme_twelve_bizople
 	url = git@github.com:wecodebolivia/theme_twelve_bizople.git
 	branch = 13.0.1
+
+[submodule "wecodebolivia/allow_cancel_journal"]
+	path = wecodebolivia/allow_cancel_journal
+	url = git@github.com:wecodebolivia/allow_cancel_journal.git
+	branch = 13.0
